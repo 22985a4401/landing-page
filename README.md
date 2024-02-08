@@ -49,7 +49,7 @@ octanet service first task for creating landing page
 		</div>
 		<div class="side2">
 			<img src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220401124017/HTML-Tutorial.png"
+"https://tse1.mm.bing.net/th?id=OIP.rygrx4uiP48XExqwOTyufQHaDt&pid=Api&P=0&h=180"
 				width="500">
 		</div>
 	</div>
