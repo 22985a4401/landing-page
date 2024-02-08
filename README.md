@@ -12,7 +12,7 @@ octanet service first task for creating landing page
 	<title>Landing Page</title>
 </head>
 
-<body>
+<body bgcolor="yellow">
 	<nav>
 		<div class="heading">Landing Page</div>
 		<span class="sideMenuButton"
